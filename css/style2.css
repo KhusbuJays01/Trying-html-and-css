@@ -1,0 +1,54 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(230, 138, 27);
+}
+
+.log {
+    width: 12%;
+    height: 100%;
+    background-color: aqua;
+    display: flex;
+
+
+}
+
+.logo-icon {
+    width: 50%;
+    height: 100%;
+    background-color:rgb(128, 120, 238);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border: 2px solid red;
+}
+
+.nam {
+    width: 70%;
+    height: 100%;
+    background-color:rgb(128, 120, 238);
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    border: 2px solid rgb(20, 180, 55) ;
+
+
+}
+
+.logo-icon img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+span {
+ margin-left: 10px;
+ 
+}
+
